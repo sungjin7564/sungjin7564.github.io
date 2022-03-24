@@ -3,7 +3,7 @@ name: Sungjin Lee
 username: sungjin
 bio: "예비 개발자 이성진 입니다"
 site: https://sungjin7564.github.io/#/
-avatar: profile.png
+avatar: sungjin.png
 email: ksji86@naver.com
 social:
     - title: "github"

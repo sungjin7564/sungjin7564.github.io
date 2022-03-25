@@ -1,7 +1,7 @@
 title: Sungjin
 subtitle: Python Developer
 description: >- # this means to ignore newlines until "baseurl:"
-  끊임없이 생각하고 고민하여 문제를 해결 해 나갑니다
+  끊임없이 생각하고 고민하여 문제를 해결해 나갑니다
 
 url: "https://sungjin7564.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -30,7 +30,7 @@ author_bio: 안녕하세요, 예비 개발자 이성진입니다
 author_email: "ksji86@naver.com"
 author_location: Korea
 author_website_url: "https://www.linkedin.com/in/sungjin-lee-4b3960145/"
-typewrite-text: 끊임없이 생각하고 고민하여 문제를 해결 해 나갑니다
+typewrite-text: 끊임없이 생각하고 고민하여 문제를 해결해 나갑니다
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences

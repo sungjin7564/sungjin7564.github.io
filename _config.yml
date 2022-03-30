@@ -35,26 +35,32 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Samsung Electronics
+              company_logo: pyeongchang.jpg
+              #company_url: https://google.com
+              designation: IT Service Desk Manager
+              description: Worked as a IT Help Desk Engineer for Samsung Electronics' CS team during the 2018 PyeongChang Winter Paralympics.
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Adecco Ltd
+              company_logo: adecco.png
+              company_url: https://www.adecco.com/
+              designation: Network & Security Management and IT Service Desk
+              description: Dispatched to P&G Chonan Plant and supported the entire plant 
+              visibility: true
+            - company_name: Excis Ltd
+              company_logo: excis.png
+              company_url: https://www.excis.com/
+              designation: Network & Security Management and IT Service Desk
+              description: Dispatched to P&G Chonan Plant and supported the entire plant 
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: hannam.png
+                college_name: Hannam University
+                college_url: http://www.hannam.ac.kr/kor/main/
+                college_degree: Computer Engineering
+                description: Bachelor of Computer Engineering
                 visibility: true
 
 # Projects
